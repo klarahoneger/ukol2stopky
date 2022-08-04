@@ -1,0 +1,29 @@
+p {
+    font-size: 75px;
+    text-align: center;
+}
+
+.zkousim {
+    width: 500px;
+    height: 500px;
+    background-color: blue;
+}
+
+.tlacitka {
+    text-align: center;
+}
+
+.stop {
+    background-color: rgb(176, 176, 176);
+    color: white;
+}
+
+.start {
+    background-color: rgb(109, 109, 109);
+    color: white;
+}
+
+.restart {
+    background-color: rgb(71, 71, 71);
+    color: white;
+}
